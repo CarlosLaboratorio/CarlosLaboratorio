@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Carlos Aníbal Aguirre</h1>
-<h3 align="center">A passionate Computer Science teacher specializing in technology, IT technical support, and programming.</h3>
+<h3 align="center">A passionate Computer Science teacher specializing in technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloslaboratorio&label=Profile%20views&color=0e75b6&style=flat" alt="carloslaboratorio" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carloslaboratorio&label=Profile%20views&color=0e75b6&style=flat" alt="carloslaboratorio" /> </p>
+
+- 🔭 I’m currently working on **Instituto Superior San José i-27** and **Escuela Técnica Juana Manso**
 
 - 💻 I work professionally teaching Computer Science, ICT, databases, and programming, and I love it; I also offer private lessons in robotics and computing.
 
 - 🤝 I am available for freelance work.
-
-- 🔭 I’m currently working on **Instituto Superior San José i-27** and **Escuela Técnica Juana Manso**
 
 - 🌱 I’m currently learning **Automatización y Agentes IA con N8N** on Education IT
 
