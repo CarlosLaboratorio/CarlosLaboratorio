@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **carlosanibal815@gmail.com**
 
-- 📄 You can view my experience in my résumé.
+- 📄 You can view my experience in my [résumé](https://github.com/CarlosLaboratorio/CarlosLaboratorio/blob/main/cv.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,11 +41,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-💻 I work professionally teaching Computer Science, ICT, databases, and programming, and I love it; I also offer private lessons in robotics and computing.
-
-🤝 I am available for freelance work.
-
-📄 You can view my experience in my résumé.
 
 -->
