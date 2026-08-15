@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **carlosanibal815@gmail.com**
 
-- 📄 You can view my experience in my [résumé](https://github.com/CarlosLaboratorio/CarlosLaboratorio/blob/main/cv.pdf).
+- 📄 You can view my experience in my Resume [Ver](https://github.com/CarlosLaboratorio/CarlosLaboratorio/blob/main/cv.pdf) [Download](https://raw.githubusercontent.com/CarlosLaboratorio/CarlosLaboratorio/main/cv.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
