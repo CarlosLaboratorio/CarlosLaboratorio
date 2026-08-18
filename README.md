@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Automatización y Agentes IA con N8N** on Education IT
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/CarlosLaboratorio?tab=repositories)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://carlosaguirre.pythonanywhere.com/)
 
 - 💬 Ask me about **web development, python, django and git**
 
